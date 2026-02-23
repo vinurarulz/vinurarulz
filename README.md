@@ -50,7 +50,15 @@ I am a seasoned Software Engineering professional and researcher with a deep aca
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="80" style="animation: float 3s ease-in-out infinite;" />
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=120&section=footer&text=Turning%20complex%20problems%20into%20elegant,%20scalable%20code.&fontSize=18&fontColor=0078d7&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=120&section=footer&text=Turning%20complex%20problems%20into%20elegant,%20scalable%20code.&fontSize=20&fontColor=0078d7&animation=twinkling&fontAlignY=70" />
 </p>
+
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
