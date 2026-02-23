@@ -50,5 +50,5 @@ I am a seasoned Software Engineering professional and researcher with a deep aca
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078d7&height=120&section=footer&text=Turning%20complex%20problems%20into%20elegant,%20scalable%20code.&fontSize=20&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078d7&height=120&section=footer&text=Turning%20complex%20problems%20into%20elegant,%20scalable%20solutions.&fontSize=20&animation=fadeIn&fontAlignY=70" />
 </p>
