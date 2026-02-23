@@ -28,9 +28,9 @@ I am a seasoned Software Engineering professional and researcher with a deep aca
 ---
 
 ### ⚡ Technical Expertise  
-- **Languages:** Java, C#, PHP, JavaScript
+- **Languages:** Java, Next.js, Vue.js, Node.js, C#, PHP
 - **Frameworks:** Spring Boot/MVC, J2EE, .NET, Hibernate, Struts, JAX-RS, CSS, jQuery, Bootstrap
-- **Systems & Data:** MongoDB, MySQL, Oracle PL/SQL, MS SQL, Web Services (REST/SOAP)
+- **Systems & Data:** PostgreSQL, MongoDB, MySQL, Oracle PL/SQL, MS SQL, Web Services (REST/SOAP)
 - **Infrastructure:** Apache Tomcat, Glassfish, Oracle WebLogic, Windows, Mac, Ubuntu, Android, iOS
 
 ---
