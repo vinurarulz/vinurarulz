@@ -21,9 +21,9 @@ I am a seasoned Software Engineering professional and researcher with a deep aca
 ---
 
 ### 📚 Featured Research & Publications
-- 🤖 **Integrating AI in Business & Finance** - Analysis of AI-driven predictive analytics in investment management firms. [cite_start][Read Paper](https://drive.google.com/file/d/1IAXpeVI0UZN7l8kXkaJ-ITzzGcMnbgDg/view?usp=sharing) [cite: 1]
-- 📈 **AI-Driven Decision Support Systems** - Exploring DSS for strategic business management. [cite_start][Read Paper](https://drive.google.com/file/d/1uqIajdu9u1w8ERuTonLi9hINr7hgLlQR/view?usp=sharing) [cite: 2]
-- 🏨 **Employee Motivation in Hospitality** - Impact analysis of motivation on customer service (Case: Jetwing Blue). [cite_start][Read Paper](https://drive.google.com/file/d/1ZFmlTmEYr3rLt5QHKnu2XMY9dcK3_syb/view?usp=sharing) 
+- 🤖 **Integrating AI in Business & Finance** - Analysis of AI-driven predictive analytics in investment management firms. [Read Paper](https://drive.google.com/file/d/1IAXpeVI0UZN7l8kXkaJ-ITzzGcMnbgDg/view?usp=sharing)
+- 📈 **AI-Driven Decision Support Systems** - Exploring DSS for strategic business management. [Read Paper](https://drive.google.com/file/d/1uqIajdu9u1w8ERuTonLi9hINr7hgLlQR/view?usp=sharing)
+- 🏨 **Employee Motivation in Hospitality** - Impact analysis of motivation on customer service (Case: Jetwing Blue). [Read Paper](https://drive.google.com/file/d/1ZFmlTmEYr3rLt5QHKnu2XMY9dcK3_syb/view?usp=sharing)
 
 ---
 
