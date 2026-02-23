@@ -11,10 +11,10 @@
 
 ---
 
-### 📊 Profile Stats
+### 📊 GitHub Overview
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=vinurarulz&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinurarulz&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinurarulz&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinurarulz&repo=vinurarulz&theme=radical&show_owner=true" alt="Profile Pin" height="150" />
 </p>
 
 <p align="left">
