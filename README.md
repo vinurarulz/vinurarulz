@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/-PhD%20IT%20%26%20Management-gold?style=flat-square&logo=academia" />
   <img src="https://img.shields.io/badge/-Lead%20Software%20Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Sri%20Lanka-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=vinurarulz&label=PROFILE+VIEWS&color=0078d7&style=flat-square" alt="vinurarulz" />
+  <a href="https://github.com/vinurarulz"><img src="https://img.shields.io/github/followers/vinurarulz?label=Follow&style=flat-square&logo=github&color=24292e" /></a>
 </p>
 
 ---
@@ -28,9 +30,9 @@ I am a seasoned Software Engineering professional and researcher with a deep aca
 ---
 
 ### ⚡ Technical Expertise  
-- **Languages:** Java, Next.js, Vue.js, Node.js, C#, PHP
+- **Languages:** Java, Next.js, Vue.js, Node.js, C#, PHP, JavaScript
 - **Frameworks:** Spring Boot/MVC, J2EE, .NET, Hibernate, Struts, JAX-RS, CSS, jQuery, Bootstrap
-- **Systems & Data:** PostgreSQL, MongoDB, MySQL, Oracle PL/SQL, MS SQL, Web Services (REST/SOAP)
+- **Systems & Data:** MongoDB, MySQL, Oracle PL/SQL, MS SQL, Web Services (REST/SOAP)
 - **Infrastructure:** Apache Tomcat, Glassfish, Oracle WebLogic, Windows, Mac, Ubuntu, Android, iOS
 
 ---
