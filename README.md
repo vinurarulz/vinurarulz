@@ -1,7 +1,7 @@
 # 👋 I'm Dr. Vinura Selaka Pathiraja  
 
 ### Lead Software Engineer | Researcher | Tech Strategist  
-### **(PhD in IT & Mgt, MSc, MBA, BEng (Hons) SE, BSc (Hons) CS, BSc (Hons) SE)**
+### *[PhD in IT & Mgt, MSc, MBA, BEng (Hons) SE, BSc (Hons) CS, BSc (Hons) SE]*
 
 <p align="left">
   <img src="https://img.shields.io/badge/-PhD%20IT%20%26%20Management-gold?style=flat-square&logo=academia" />
