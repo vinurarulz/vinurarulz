@@ -1,6 +1,6 @@
 # 👋 I'm Dr. Vinura Selaka Pathiraja  
 
-### **Lead Software Engineer | Researcher | Tech Strategist** *Optimizing complex systems through advanced engineering and academic rigor.*
+### **Lead Software Engineer | Researcher | Tech Strategist** **(PhD in IT & Mgt, MSc, MBA, BEng (Hons) SE, BSc (Hons) CS, BSc (Hons) SE)**
 
 <p align="left">
   <img src="https://img.shields.io/badge/-PhD%20IT%20%26%20Management-gold?style=flat-square&logo=academia" />
@@ -13,25 +13,17 @@
 ### 🛡️ Executive Profile  
 I am a seasoned Software Engineering professional and researcher with a deep academic foundation. My expertise lies in bridging the gap between high-level IT management and hands-on software architecture.
 
-- 🎓 **PhD in IT & Management** — Specialized in strategic technology optimization.
 - 🚀 **Lead Software Engineer** — Experienced in architecting scalable solutions and leading high-performing teams.
-- 📚 **Academic Background:** PhD, MSc, MBA, BEng (Hons) SE, BSc (Hons) CS, BSc (Hons) SE.
+- 🎓 **Academic Excellence** — PhD specialized in strategic technology optimization with a multidisciplinary background in Computer Science and Management.
 - 🧠 **Focus Areas:** Distributed Systems, Cloud-Native Architecture, and Data-Driven Decision Making.
 
 ---
 
-### ⚡ Technical Expertise & Leadership  
-- **Engineering:** System Architecture, Microservices, Scalable Backend Design.
-- **Academic:** IT Strategy, Management Science, Quantitative Research.
-- **Tech Stack:** Java (Spring Boot), Python, Cloud Technologies (AWS/Azure).
-
----
-
-### 📊 Professional Insights & GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinurarulz&show_icons=true&theme=tokyonight&count_private=true" alt="Vinura's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinurarulz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### ⚡ Technical Expertise  
+- **Languages:** Java, C#, PHP, JavaScript
+- **Frameworks:** Spring Boot/MVC, J2EE, .NET, Hibernate, Struts, JAX-RS, CSS, jQuery, Bootstrap
+- **Systems & Data:** MongoDB, MySQL, Oracle PL/SQL, MS SQL, Web Services (REST/SOAP)
+- **Infrastructure:** Apache Tomcat, Glassfish, Oracle WebLogic, Windows, Mac, Ubuntu, Android, iOS
 
 ---
 
