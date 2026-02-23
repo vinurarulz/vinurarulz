@@ -7,19 +7,8 @@
   <img src="https://img.shields.io/badge/-PhD%20IT%20%26%20Management-gold?style=flat-square&logo=academia" />
   <img src="https://img.shields.io/badge/-Lead%20Software%20Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Sri%20Lanka-red?style=flat-square" />
-</p>
-
----
-
-### 📊 GitHub Overview
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinurarulz&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinurarulz&repo=vinurarulz&theme=radical&show_owner=true" alt="Profile Pin" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vinurarulz&label=PROFILE+VIEWS&color=0078d7&style=for-the-badge"  />
-  <a href="https://github.com/vinurarulz"><img src="https://img.shields.io/github/followers/vinurarulz?label=Followers&style=for-the-badge&logo=github&color=24292e" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vinurarulz&label=PROFILE+VIEWS&color=0078d7&style=flat-square" alt="vinurarulz" />
+  <a href="https://github.com/vinurarulz"><img src="https://img.shields.io/github/followers/vinurarulz?label=Follow&style=flat-square&logo=github&color=24292e" /></a>
 </p>
 
 ---
