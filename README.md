@@ -14,9 +14,9 @@
 ### 🛡️ Executive Profile  
 I am a seasoned Software Engineering professional and researcher with a deep academic foundation. My expertise lies in bridging the gap between high-level IT management and hands-on software architecture.
 
-- 🚀 **Lead Software Engineer** Experienced in architecting scalable solutions and leading high-performing teams.
-- 🎓 **Academic Excellence** PhD specialized in strategic technology optimization with a background in Computer Science and Management.
-- 🧠 **Focus Areas** Distributed Systems, Cloud-Native Architecture, and Data-Driven Decision Making.
+- 🚀 **Lead Software Engineer**- Experienced in architecting scalable solutions and leading high-performing teams.
+- 🎓 **Academic Excellence**- PhD specialized in strategic technology optimization with a background in Computer Science and Management.
+- 🧠 **Focus Areas**- Distributed Systems, Cloud-Native Architecture, and Data-Driven Decision Making.
 
 ---
 
